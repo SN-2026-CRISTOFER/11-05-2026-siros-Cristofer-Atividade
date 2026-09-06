@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-06T17:24:12.491210+00:00",
+  "updated_at": "2026-09-06T22:32:43.133845+00:00",
   "data_referencia": "2026-09-06",
   "airport_icao": "SBLO",
   "airport_name": "Londrina",
   "airport_info": {
-    "sg_aerodromo_icao": "SBVG",
-    "sg_aerodromo_iata": "VAG",
-    "descricao": "MAJOR BRIGADEIRO TROMPOWSKY - VARGINHA - MG - BRASIL"
+    "sg_aerodromo_icao": "SBLO",
+    "sg_aerodromo_iata": "LDB",
+    "descricao": "GOVERNADOR JOSÉ RICHA - LONDRINA - PR - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
